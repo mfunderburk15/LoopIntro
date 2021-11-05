@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\bin\Debug\netcoreapp3.1\LoopIntro.exe
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\bin\Debug\netcoreapp3.1\LoopIntro.deps.json
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\bin\Debug\netcoreapp3.1\LoopIntro.runtimeconfig.json
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\bin\Debug\netcoreapp3.1\LoopIntro.runtimeconfig.dev.json
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\bin\Debug\netcoreapp3.1\LoopIntro.dll
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\bin\Debug\netcoreapp3.1\LoopIntro.pdb
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.AssemblyInfo.cs
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.dll
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.pdb
+C:\Users\masen\source\repos\LoopIntro\LoopIntro\obj\Debug\netcoreapp3.1\LoopIntro.genruntimeconfig.cache
