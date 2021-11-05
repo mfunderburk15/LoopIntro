@@ -55,16 +55,23 @@ namespace LoopIntro
             //    i++;
             //}
 
-            while(true)
-            {
-                Console.Write("Type your name: ");
-                string input = Console.ReadLine();
+            //while(true)
+            //{
+            //    Console.Write("Type your name: ");
+            //    string input = Console.ReadLine();
 
-                if (String.IsNullOrWhiteSpace(input))
-                {
-                    break;
-                }
-                Console.WriteLine("@Echo: " + input);
+            //    if (!String.IsNullOrWhiteSpace(input))
+            //    {
+            //        Console.WriteLine("@Echo: " + input);
+            //        continue;
+            //    }
+            //    break;
+            //}
+
+            Random random = new Random();
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(random.Next(1,10));
             }
         }
     }
