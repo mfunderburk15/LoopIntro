@@ -25,19 +25,25 @@ namespace LoopIntro
             }
             */
 
-            string name = "John Smith";
-            
-            foreach (char letter in name)
-            {
-                Console.WriteLine(letter);
-            }
-            
+            //string name = "John Smith";
+
+            //foreach (char letter in name)
+            //{
+            //    Console.WriteLine(letter);
+            //}
+
             /*
             for (int i = 0; i < name.Length; i++)
             {
                 Console.WriteLine(name[i]);
             }
             */
+
+            int[] numbers = new int[] { 1, 2, 3, 4 };
+            foreach(int number in numbers)
+            {
+                Console.WriteLine(number);
+            }
         }
     }
 }
