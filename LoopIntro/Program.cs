@@ -45,14 +45,26 @@ namespace LoopIntro
             //    Console.WriteLine(number);
             //}
 
-            int i = 0;
-            while (i <= 10)
+            //int i = 0;
+            //while (i <= 10)
+            //{
+            //    if (i % 2 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //    i++;
+            //}
+
+            while(true)
             {
-                if (i % 2 == 0)
+                Console.Write("Type your name: ");
+                string input = Console.ReadLine();
+
+                if (String.IsNullOrWhiteSpace(input))
                 {
-                    Console.WriteLine(i);
+                    break;
                 }
-                i++;
+                Console.WriteLine("@Echo: " + input);
             }
         }
     }
