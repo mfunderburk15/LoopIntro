@@ -39,10 +39,20 @@ namespace LoopIntro
             }
             */
 
-            int[] numbers = new int[] { 1, 2, 3, 4 };
-            foreach(int number in numbers)
+            //int[] numbers = new int[] { 1, 2, 3, 4 };
+            //foreach(int number in numbers)
+            //{
+            //    Console.WriteLine(number);
+            //}
+
+            int i = 0;
+            while (i <= 10)
             {
-                Console.WriteLine(number);
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+                i++;
             }
         }
     }
